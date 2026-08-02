@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner">
 </p>
 # 💫 About Me:
-Hey there 👋<br><br>I'm a Backend / Game Developer 🧑‍💻<br><br>🚀 Languages & Tech I Use<br>🐍 Python<br>🌙 Lua<br>📘 TypeScript<br>⚛️ Next.js<br>🤖 Discord.py<br>🎮 Roblox Studio (Luau)
+Hey there 👋<br><br>I'm a Backend / Game Developer 🧑‍💻<br><br>🚀 Languages & Tech I Use<br>🐍 Python<br>
 
 
 ## 🌐 Socials:
