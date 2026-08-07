@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner">
 </p>
 # 💫 About Me:
 Hey there 👋<br><br>I'm a Backend / Game Developer 🧑‍💻<br><br>🚀 Languages & Tech I Use<br>🐍 Python<br>
